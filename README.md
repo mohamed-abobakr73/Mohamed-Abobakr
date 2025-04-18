@@ -1,47 +1,33 @@
-<h1 align="center">🚀 Mohamed Abobakr | Back-End Developer</h1>  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedAbobakr&label=Profile%20Views&color=blue" alt="Profile Views" />
-</p>
+# Hi, I'm Mohamed Abobakr 👋  
 
----
+Welcome to my GitHub profile! I am an entry-level back-end software engineer with a strong foundation in programming and backend technologies, specializing in Node.js. I'm passionate about building scalable and efficient APIs, and I'm always looking to learn and improve my skills.  
 
-### 🛠 About Me  
-💡 Passionate about building **scalable, efficient, and high-performance** back-end solutions.  
-💻 Specialized in **Node.js, Nest.js, and scalable RESTful APIs**.  
-⚡ Always learning and exploring new technologies to **push boundaries** in back-end development.  
+## 🚀 What I Do  
+- **Backend Development** using Node.js, Express.js, and MySQL  
+- **API Development** with a focus on security and scalability  
+- **Database Management** (MySQL, MongoDB, Redis)  
+- **Real-time Applications** with WebSockets and Socket.IO  
+- **Authentication** using JWT and OAuth  
 
----
+## 🔧 Technologies I Use  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks & Libraries:** Node.js, Express.js, Sequelize, Socket.IO  
+- **Databases:** MySQL, MongoDB, Redis  
+- **Tools:** Git, GitHub, Postman  
 
-## 🛠 Tech Stack  
+## 📚 Learning  
+I'm always exploring new technologies and improving my skill set. Currently learning more about:  
+- Cloud services  
+- Containerization with Docker  
+- Building microservices architectures  
 
-### 🚀 Back-End  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+## 📬 Get in Touch  
+Feel free to reach out or check out my repositories. I'm open to collaboration and always happy to connect with fellow developers!  
 
-### 📦 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-abobakr73)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-abobakr7/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabobakr045@gmail.com)  
 
-### 🔥 DevOps & Tools  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
-### 🌍 Front-End Skills  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-
----
 
 ## 🚀 Featured Projects  
 
@@ -52,7 +38,7 @@
 ✅ Secure authentication with **JWT & Prisma**.  
 ✅ Built using **Nest.js, MySQL, Redis, and WebSockets**.  
 
-🔗 **GitHub Repo:** [https://github.com/Mm73v2/Job-Portal-API]  
+🔗 **GitHub Repo:** [https://github.com/mohamed-abobakr73/Job-Portal-API]  
 
 ### 🔹 Social Media Back-End API  
 📌 A **powerful social media API** with:  
@@ -61,17 +47,5 @@
 ✅ **Real-time chat** for seamless conversations.  
 ✅ Built using **Express.js, MongoDB, Mongoose, and Redis**.  
 
-🔗 **GitHub Repo:** [https://github.com/Mm73v2/Social-Media-API]  
+🔗 **GitHub Repo:** [https://github.com/mohamed-abobakr73/Social-Media-API]  
 
-
----
-
-## 📬 Let's Connect!  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-abobakr7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedabobakr045@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
